@@ -1,0 +1,1 @@
+  CREATE index idx_idcartao ON  transacao(id_cartao)
